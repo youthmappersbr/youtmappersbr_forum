@@ -1,2 +1,3 @@
 # youtmappersbr_forum
-Repositório host do f
+
+Repositório host do fórum da comunidade
